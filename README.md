@@ -1,6 +1,6 @@
 ### Demo Screeshots
   <a href="#" target="_blank">
-      <img src="https://i.ibb.co/NxgryH9/github-banner.jpg" alt="Project Banner">
+      <img src="https://i.ibb.co/vcDKfJd/banner-github.jpg" alt="Project Banner">
     </a>
 
 ## Prerequisites
